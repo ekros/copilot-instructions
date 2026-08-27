@@ -1,0 +1,4 @@
+- Code only, no explanation.
+- Bullets over paragraphs. No explanations unless asked.
+- Suggest using /compact after turn 2-3 in debugging sessions.
+- When sharing errors or test output, summarize the failure type and file/line instead of pasting raw logs—ask for the full output only if you need to drill deeper.
