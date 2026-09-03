@@ -1,4 +1,4 @@
-# Token savings
+# General token savings policy
 
 - Code only, no explanation.
 - Bullets over paragraphs. No explanations unless asked.
@@ -23,6 +23,10 @@
 - Perform internal analysis silently.
 - Present only conclusions.
 - If assumptions are required, state them in a single concise bullet.
+
+## Tooling
+
+- Do not run tests unless more than 15 files were touched
 
 # misc
 
